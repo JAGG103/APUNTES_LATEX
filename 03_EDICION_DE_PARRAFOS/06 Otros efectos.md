@@ -8,7 +8,7 @@ Utilizando:                              Bloque + Orden  / Entorno
 
 - El más pequeño `{\scriptsize    Text}`
 
-- Más pequeño `{\footnotesinze    Text}`
+- Más pequeño `{\footnotesize    Text}`
 
 - Pequeño `{\small    Text}`
 
